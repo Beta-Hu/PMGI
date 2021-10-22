@@ -3,7 +3,7 @@ An unofficial implementation of Paper "Rethinking the Image Fusion: A Fast Unifi
 
 ## NOTICE  
 1.The metric SSIM remains some problems to be solve.  
-2.When using this code for the first time, please create a folder under pwd and name it as 'pth' to save model.  
+2.When using this code for the first time, please create a folder under working directory and name it as 'pth' to save model.  
 3.Prograss visualization is available when training, if you train the model on a server, please delete relevent part.  
 4.Caution device type in each file ('cpu' or 'cuda:0')
 
